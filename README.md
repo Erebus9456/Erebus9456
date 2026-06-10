@@ -135,10 +135,3 @@ Built an enterprise-grade, **MCP-powered multi-agent ecosystem** that turned raw
 
 ---
 
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/Erebus9456/Erebus9456/blob/output/github-contribution-grid-snake.svg)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=80&section=footer"/>
-</p>
