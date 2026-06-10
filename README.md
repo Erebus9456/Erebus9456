@@ -59,11 +59,13 @@ Built an enterprise-grade, **MCP-powered multi-agent ecosystem** that turned raw
 
 | Project | Stack | Description |
 |---|---|---|
+| 💬 **[Erebus](https://github.com/Erebus9456/erebus-frontend)** | Flutter, Pocketbase | Post Quantum Secure encrypted communication platform |
+| 🔒 **[Lib OQS - Flutter](https://github.com/Erebus9456/liboqs-flutter)** | Flutter | Flutter port of lib-oqs from NIST |
 | 🎙️ **PDF-to-Audiobook Platform** | Kokoro TTS, Python | Automated speech synthesis from any document |
 | 📞 **IVR Booking System** | Telephony APIs, FastAPI | AI-powered appointment booking for Pakistani businesses |
 | 💬 **WhatsApp Business Agents** | LangChain, OpenAI | Customer support + booking automation over WhatsApp |
 | 🎮 **VTuber Motion Capture** | WebRTC, Python | Real-time motion capture + avatar animation for livestreams |
-| 🔊 **[Orpheus TTS](https://github.com/Erebus9456/orpheus-tts)** | Speech Synthesis | Open-source TTS implementation |
+| 🔊 **[Orpheus TTS](https://github.com/Erebus9456/Orpheus-TTS-Collab-T4)** | Speech Synthesis | Open-source TTS implementation |
 | 🔒 **[SimpleVPN](https://github.com/Erebus9456/SimpleVPN)** | Go, Networking | Lightweight VPN implementation |
 
 ---
@@ -123,6 +125,12 @@ Built an enterprise-grade, **MCP-powered multi-agent ecosystem** that turned raw
 
 ---
 
+StreakLabel=6366f1" />
+
+</div>
+
+---
+
 ## 🔭 Currently Building
 
 ```
@@ -130,6 +138,23 @@ Built an enterprise-grade, **MCP-powered multi-agent ecosystem** that turned raw
 🎓 Education SaaS     →  Workflow automation · Real-time systems
 🍽️  Restaurant SaaS   →  AI-powered ops · Role-based access control
 ```
+
+> All three share a common pattern: **multi-tenant architecture + AI agents that replace manual overhead**.
+
+<h4>Platform Stack</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" title="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" title="Supabase"/>
+  <img src="https://img.shields.io/badge/Fly.io-8B5CF6?style=flat-square&logo=flydotio&logoColor=white&labelColor=8B5CF6" height="28" title="Fly.io"/>
+  <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white" height="28" title="Cloudflare Pages"/>
+  <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" height="28" title="Resend"/>
+  <img src="https://img.shields.io/badge/Evolution_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="28" title="Evolution API"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" height="28" title="n8n"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" height="28" title="Sentry"/>
+  <img src="https://img.shields.io/badge/Axiom-1A1A2E?style=flat-square&logo=axiom&logoColor=white" height="28" title="Axiom"/>
+</p>
 
 > All three share a common pattern: **multi-tenant architecture + AI agents that replace manual overhead**.
 
