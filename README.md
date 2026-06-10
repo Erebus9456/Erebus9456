@@ -123,11 +123,6 @@ Built an enterprise-grade, **MCP-powered multi-agent ecosystem** that turned raw
 
 </div>
 
----
-
-StreakLabel=6366f1" />
-
-</div>
 
 ---
 
