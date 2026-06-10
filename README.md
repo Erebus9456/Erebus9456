@@ -125,12 +125,12 @@ Built an enterprise-grade, **MCP-powered multi-agent ecosystem** that turned raw
 
 ---
 
-## 🔭 Currently Building △ !!BETA!!
+## 🔭 Currently Building △ !! BETA !!
 
 ```
 🏥 Healthcare SaaS    →  Multi-tenant · RBAC · AI operational assistants
 🎓 Education SaaS     →  Workflow automation · Real-time systems
-🍽️  [Restaurant SaaS](https://dineforge.netlify.app)   →  AI-powered ops · Role-based access control
+🍽️ Restaurant SaaS    →  AI-powered ops · Role-based access control | https://dineforge.netlify.app
 ```
 
 > All three share a common pattern: **multi-tenant architecture + AI agents that replace manual overhead**.
