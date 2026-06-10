@@ -24,14 +24,13 @@
 
 ```yaml
 name:       Muhammad Zaid
-role:       AI Engineer & Automation Specialist
-location:   Lahore, Pakistan 🇵🇰
-education:  BS Computer Science — ITU Lahore (2020–2026)
+role:       Full Stack AI Automation Engineer
+education:  BS Computer Science 
 focus:
   - LLM / RAG Pipelines
   - Conversational AI Agents (WhatsApp, IVR, MCP)
-  - Multi-tenant SaaS Architecture
-currently:  Architecting 3 enterprise SaaS platforms
+  - Multi-tenant SaaS Platforms Architecture
+currently:  Crafting 3 enterprise SaaS platforms
             (restaurant · education · healthcare)
 superpower: Bridging cutting-edge AI research → scalable production systems
 philosophy: "The best automation is invisible — it just works, while you sleep."
@@ -126,12 +125,12 @@ Built an enterprise-grade, **MCP-powered multi-agent ecosystem** that turned raw
 
 ---
 
-## 🔭 Currently Building
+## 🔭 Currently Building △ !!BETA!!
 
 ```
 🏥 Healthcare SaaS    →  Multi-tenant · RBAC · AI operational assistants
 🎓 Education SaaS     →  Workflow automation · Real-time systems
-🍽️  Restaurant SaaS   →  AI-powered ops · Role-based access control
+🍽️  [Restaurant SaaS](https://dineforge.netlify.app)   →  AI-powered ops · Role-based access control
 ```
 
 > All three share a common pattern: **multi-tenant architecture + AI agents that replace manual overhead**.
