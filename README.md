@@ -19,13 +19,14 @@
 </div>
 
 ---
-<p align="center">
+<div align="center">
   <a href="https://app.daily.dev/erebus9456">
-    <img src="" 
+    <img src="https://api.daily.dev/devcards/v2/u2qBLrQpuxYvplqDujJZn.png?type=wide&r=qmf" 
          width="652" 
          alt="Zaid Shah's Dev Card"/>
   </a>
-</p>---
+</div>
+---
 
 ## 👾 About Me
 
