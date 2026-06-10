@@ -19,6 +19,8 @@
 </div>
 
 ---
+<a href="https://app.daily.dev/erebus9456"><img src="https://api.daily.dev/devcards/v2/u2qBLrQpuxYvplqDujJZn.png?type=default&r=f5t" width="356" alt="Muhammad Zaid Hussain Shah's Dev Card"/></a>
+---
 
 ## 👾 About Me
 
