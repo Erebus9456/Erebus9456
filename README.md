@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Muhammad%20Zaid&animation=fadeIn&type=waving&color=0:6366f1,100:a855f7&height=120&fontColor=ffffff&fontSize=50&fontAlignY=65&desc=AI%20Engineer%20·%20Automation%20Architect%20·%20Full%20Stack%20Developer&descAlignY=85&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?text=Zaid%20Shah&animation=fadeIn&type=waving&color=0:6366f1,100:a855f7&height=120&fontColor=ffffff&fontSize=50&fontAlignY=65&desc=AI%20Engineer%20·%20Automation%20Architect%20·%20Full%20Stack%20Developer&descAlignY=85&descSize=16"/>
 </p>
 
 <p align="center">
