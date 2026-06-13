@@ -73,7 +73,7 @@ Built an enterprise-grade, **MCP-powered multi-agent ecosystem** that turned raw
 | 💬 **WhatsApp Business Agents** | LangChain, OpenAI | Customer support + booking automation over WhatsApp |
 | 🎮 **VTuber Motion Capture** | WebRTC, Python | Real-time motion capture + avatar animation for livestreams |
 | 🔊 **[Orpheus TTS](https://github.com/Erebus9456/Orpheus-TTS-Collab-T4)** | Speech Synthesis | Added support for Colab's T4 GPU |
-| 🔒 **[SimpleVPN](https://github.com/Erebus9456/SimpleVPN)** | Go, Networking | Lightweight VPN implementation |
+| 🔒 **[SimpleVPN](https://github.com/Erebus9456/SimpleVPN)** | Python, Networking | Lightweight VPN implementation |
 
 ---
 
