@@ -1,217 +1,82 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Zaid%20Shah&animation=fadeIn&type=waving&color=0:6366f1,100:a855f7&height=120&fontColor=ffffff&fontSize=50&fontAlignY=65&desc=AI%20Engineer%20·%20Automation%20Architect%20·%20Full%20Stack%20Developer&descAlignY=85&descSize=16"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?text=Zaid%20Shah&animation=fadeIn&type=waving&color=0:6366f1,100:a855f7&height=120&fontColor=ffffff&fontSize=50&fontAlignY=65&desc=AI%20Engineer%20·%20Automation%20Architect%20·%20Full%20Stack%20Developer&descAlignY=85&descSize=16"/>
 
-<p align="center">
-  <a href="mailto:zaid9456@gmail.com">
-    <img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Erebus9456">
-    <img height="32" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Erebus9456&style=flat-square&color=6366f1&label=Profile+Views)](https://github.com/Erebus9456)
+<a href="mailto:zaid9456@gmail.com">
+  <img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Erebus9456">
+  <img height="32" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Erebus9456&style=flat-square&color=6366f1&label=Profile+Views"/>
 
 </div>
 
 ---
-<div align="center">
-  <a href="https://app.daily.dev/erebus9456">
-    <img src="https://api.daily.dev/devcards/v2/u2qBLrQpuxYvplqDujJZn.png?type=wide&r=qmf" 
-         width="652" 
-         alt="Zaid Shah's Dev Card"/>
-  </a>
-</div>
----
 
-## 👾 About Me
+# 👾 About Me
 
 ```yaml
-name:       Muhammad Zaid
-role:       Full Stack AI Automation Engineer
-education:  BS Computer Science 
-focus:
-  - LLM / RAG Pipelines
-  - Conversational AI Agents (WhatsApp, IVR, MCP)
-  - Multi-tenant SaaS Platforms Architecture
-currently:  Crafting 3 enterprise SaaS platforms
-            (restaurant · education · healthcare)
-superpower: Bridging cutting-edge AI research → scalable production systems
-philosophy: "The best automation is invisible — it just works, while you sleep."
+name: Muhammad Zaid
+
+role:
+  AI Automation Engineer
+  Full Stack Developer
+
+specializes_in:
+  - AI Agents & MCP Systems
+  - LLM / RAG Architectures
+  - WhatsApp & Voice Automation
+  - Multi-tenant SaaS Platforms
+
+currently_building:
+  - Healthcare SaaS
+  - Education SaaS
+  - Restaurant SaaS
+
+mission:
+  Building AI systems that transform natural language
+  into real business operations.
+
+philosophy:
+  "The best automation is invisible — it just works."
 ```
 
 ---
 
-## 🏗️ What I've Shipped
+# 🚀 Currently Building
 
-### 🤖 AI Agent Systems @ [Advertising Report Card](https://advertisingreportcard.com/)
-> *Team Lead – Automations · 2024–2025*
-
-Built an enterprise-grade, **MCP-powered multi-agent ecosystem** that turned raw marketing platforms into conversational AI interfaces:
-
-| Agent | Capability |
-|---|---|
-| 📊 **GA4 Analytics Agent** | Natural language → complex marketing analytics, funnels, retention reports |
-| 📁 **Google Drive Agent** | Semantic search, metadata extraction, automated file ops |
-| 💰 **Google Ads Agent** | GAQL generation, campaign monitoring, human-in-the-loop approvals |
-| 🎯 **GoHighLevel CRM Agent** | Lead processing, surveys, social publishing, engagement workflows |
-
----
-
-### 🚀 Independent Projects & Freelance · 2025–Present
-
-| Project | Stack | Description |
-|---|---|---|
-| 💬 **[Erebus](https://github.com/Erebus9456/erebus-frontend)** | Flutter, Pocketbase | Post Quantum Secure encrypted communication platform |
-| 🔒 **[Lib OQS - Flutter](https://github.com/Erebus9456/liboqs-flutter)** | Flutter | Flutter port of lib-oqs from NIST |
-| 🎙️ **PDF-to-Audiobook Platform** | Kokoro TTS, Python | Automated speech synthesis from any document |
-| 📞 **IVR Booking System** | Telephony APIs, FastAPI | AI-powered appointment booking for Pakistani businesses |
-| 💬 **WhatsApp Business Agents** | LangChain, OpenAI | Customer support + booking automation over WhatsApp |
-| 🎮 **VTuber Motion Capture** | WebRTC, Python | Real-time motion capture + avatar animation for livestreams |
-| 🔊 **[Orpheus TTS](https://github.com/Erebus9456/Orpheus-TTS-Collab-T4)** | Speech Synthesis | Added support for Colab's T4 GPU |
-| 🔒 **[SimpleVPN](https://github.com/Erebus9456/SimpleVPN)** | Python, Networking | Lightweight VPN implementation |
-
----
-## 🛠️ Tech Stack
-
-<h3 align="center">🤖 AI & Intelligent Automation</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" title="TensorFlow"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" title="Jupyter"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" title="FastAPI"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" title="Flask"/>
-</p>
-
-<br>
-
-<h3 align="center">⚙️ Backend & Infrastructure</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="55" title="Go"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" title="JavaScript"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" title="Node.js"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="55" title="Dart"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" title="Flutter"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" title="Docker"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="55" title="GraphQL"/>
-</p>
-
-<br>
-
-<h3 align="center">🗄️ Databases</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" title="PostgreSQL"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" title="MySQL"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" title="MongoDB"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55" title="Redis"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="55" title="Neo4j"/>
-</p>
-
-<br>
-
-<h3 align="center">🧪 Testing & Automation</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="55" title="Selenium"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="55" title="Cypress"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55" title="Postman"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" title="GitHub Actions"/>
-</p>
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- Main Stats -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Erebus9456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erebus9456&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Erebus9456&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Erebus9456&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=6366F1&point=FFFFFF" />
-
-</div>
-
-
-
----
-
-## 🚀 Open Source & Development
-
-```text
-💻 Building Full Stack Applications
-🌱 Contributing to Open Source
-⚡ Exploring AI, Automation & DevOps
-📚 Always Learning Something New
-```
-
----
-
-## 📈 Contribution Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erebus9456&theme=tokyonight" />
-</p>
-
----
-## 🚀 Currently Building
-
-> **Three AI-first SaaS platforms currently in active beta.**
+> Building three AI-first SaaS platforms designed around autonomous workflows, intelligent assistants, and operational automation.
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 🏥 Healthcare SaaS
-Multi-tenant platform with RBAC, workflow automation, and AI operational assistants.
+## 🏥 Healthcare SaaS
+
+Multi-tenant healthcare platform with RBAC, workflow automation, and AI-powered operational assistants.
 
 </td>
+
 <td width="33%" align="center">
 
-### 🎓 Education SaaS
-Automation-first learning workflows with real-time collaboration systems.
+## 🎓 Education SaaS
+
+Automation-first education platform featuring collaborative learning workflows and AI-powered assistance.
 
 </td>
+
 <td width="33%" align="center">
 
-### 🍽️ Restaurant SaaS
-AI-powered restaurant operations and staff management.
+## 🍽️ Restaurant SaaS
+
+AI-powered restaurant operations, staff management, and workflow automation.
 
 **🔗 https://chopengine.com**
 
@@ -219,11 +84,9 @@ AI-powered restaurant operations and staff management.
 </tr>
 </table>
 
-### 🏗️ Shared Architecture
+### 🏗️ Shared Platform Architecture
 
-> Multi-tenant SaaS foundations powered by AI agents that eliminate repetitive operational work.
-
-<h4 align="center">Platform Stack</h4>
+> Multi-tenant foundations powered by AI agents that eliminate repetitive operational work.
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js"/>
@@ -250,3 +113,135 @@ AI-powered restaurant operations and staff management.
 
 ---
 
+# 🤖 Enterprise AI Systems
+
+### AI Agent Systems @ Advertising Report Card
+
+**Team Lead – Automations · 2024–2025**
+
+Built an enterprise-grade MCP-powered multi-agent ecosystem that transformed traditional marketing platforms into conversational AI interfaces.
+
+| Agent                    | Capability                                                              |
+| ------------------------ | ----------------------------------------------------------------------- |
+| 📊 GA4 Analytics Agent   | Natural language analytics, funnels, retention reports, KPI exploration |
+| 📁 Google Drive Agent    | Semantic search, metadata extraction, automated file operations         |
+| 💰 Google Ads Agent      | GAQL generation, campaign monitoring, approval workflows                |
+| 🎯 GoHighLevel CRM Agent | Lead processing, surveys, publishing, engagement automation             |
+
+---
+
+# 🌟 Featured Projects
+
+| Project                           | Stack                   | Description                                                    |
+| --------------------------------- | ----------------------- | -------------------------------------------------------------- |
+| 💬 **Erebus**                     | Flutter, PocketBase     | Post-quantum secure encrypted communication platform           |
+| 🔒 **LibOQS Flutter**             | Flutter                 | Flutter bindings for NIST post-quantum cryptography algorithms |
+| 🎙️ **PDF-to-Audiobook Platform** | Python, Kokoro TTS      | Automated speech synthesis from any document                   |
+| 📞 **IVR Booking System**         | FastAPI, Telephony APIs | AI-powered appointment booking system                          |
+| 💬 **WhatsApp Business Agents**   | LangChain, OpenAI       | Customer support and booking automation                        |
+| 🎮 **VTuber Motion Capture**      | Python, WebRTC          | Real-time avatar motion capture and animation                  |
+| 🔊 **Orpheus TTS**                | Speech Synthesis        | Added support for Google Colab T4 environments                 |
+| 🔒 **SimpleVPN**                  | Python, Networking      | Lightweight VPN implementation                                 |
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Erebus9456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erebus9456&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Erebus9456&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Erebus9456&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=6366F1&point=FFFFFF" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erebus9456&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+### 🤖 AI & Automation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,flask" />
+</p>
+
+### ⚙️ Backend & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,javascript,dart,flutter,docker,graphql" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### 🧪 Testing & Tooling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium,postman,github" />
+</p>
+
+---
+
+# ⚡ Engineering Philosophy
+
+```text
+Build systems, not scripts.
+Automate repetitive work.
+Prefer reliability over complexity.
+Ship quickly, iterate continuously.
+Design AI around business outcomes, not demos.
+```
+
+---
+
+# 🚀 Open Source & Development
+
+```text
+💻 Building Full Stack Applications
+🌱 Contributing to Open Source
+⚡ Exploring AI, Automation & DevOps
+📚 Always Learning Something New
+```
+
+---
+
+# 📰 Developer Activity
+
+<div align="center">
+  <a href="https://app.daily.dev/erebus9456">
+    <img src="https://api.daily.dev/devcards/v2/u2qBLrQpuxYvplqDujJZn.png?type=wide&r=qmf"
+         width="652"
+         alt="Zaid Shah's Dev Card"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for stopping by 👋
+
+Building intelligent systems, shipping products, and exploring the future of AI-powered software.
+
+</div>
