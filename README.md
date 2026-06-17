@@ -168,12 +168,7 @@ Built an enterprise-grade, **MCP-powered multi-agent ecosystem** that turned raw
 
 </div>
 
-<div align="center">
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Erebus9456&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
 
 ---
 
