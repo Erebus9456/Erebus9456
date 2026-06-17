@@ -131,20 +131,30 @@ Built an enterprise-grade MCP-powered multi-agent ecosystem that transformed tra
 ---
 # 🌟 Featured Projects
 
-| Project                           | Stack                   | Description                                                              |
-| --------------------------------- | ----------------------- | ------------------------------------------------------------------------ |
-| 💬 **Erebus**                     | Flutter, PocketBase     | Post-quantum secure encrypted communication platform.                    |
-| 🛡️ **EasyVPN CLI**                 | **Go, Networking**      | **High-performance, anti-censorship VPN client with kernel-level state reconciliation.** |
-| 🏗️ **EasyVPN Backend**            | **Node.js, WireGuard**  | **Automated WireGuard node agent with secure peer provisioning and key rotation APIs.** |
-| 🔒 **LibOQS Flutter**             | Flutter                 | Flutter bindings for NIST post-quantum cryptography algorithms.          |
-| 🎙️ **PDF-to-Audiobook Platform** | Python, Kokoro TTS      | Automated speech synthesis from any document.                            |
-| 📞 **IVR Booking System**         | FastAPI, Telephony APIs | AI-powered appointment booking system.                                    |
-| 💬 **WhatsApp Business Agents**   | LangChain, OpenAI       | Customer support and booking automation.                                 |
-| 🎮 **VTuber Motion Capture**      | Python, WebRTC          | Real-time avatar motion capture and animation.                           |
-| 🔊 **Orpheus TTS**                | Speech Synthesis        | Added support for Google Colab T4 environments.                          |
-| 🔒 **SimpleVPN**                  | Python, Networking      | Lightweight VPN implementation (Legacy).                                 |
+| Project | Stack | Description |
+|----------|----------|-------------|
+| 💬 **[Erebus Frontend](https://github.com/Erebus9456/erebus-frontend)** | Flutter, PocketBase | Post-quantum secure messaging client. |
+| 🔐 **[Erebus Backend](https://github.com/Erebus9456/erebus-backend)** | PocketBase, Docker | Backend infrastructure and schema migrations for Erebus. |
+| 🛡️ **[EasyVPN CLI](https://github.com/Erebus9456/EasyVPN-CLI)** | **Go, Networking** | **High-performance, anti-censorship VPN client with kernel-level state reconciliation.** |
+| 🏗️ **[EasyVPN Backend](https://github.com/Erebus9456/EasyVPN-Backend)** | **Python, WireGuard** | **Automated WireGuard node agent with secure peer provisioning and infrastructure orchestration.** |
+| 🔒 **[LibOQS Flutter](https://github.com/Erebus9456/liboqs-flutter)** | Flutter | Flutter bindings for NIST post-quantum cryptography algorithms. |
+| 🎙️ **PDF-to-Audiobook Platform** | Python, Kokoro TTS | Automated speech synthesis from any document. |
+| 📞 **IVR Booking System** | FastAPI, Telephony APIs | AI-powered appointment booking system. |
+| 💬 **WhatsApp Business Agents** | LangChain, OpenAI | Customer support and booking automation. |
+| 🎮 **VTuber Motion Capture** | Python, WebRTC | Real-time avatar motion capture and animation. |
+| 🔊 **[Orpheus TTS](https://github.com/Erebus9456/Orpheus-TTS-Collab-T4)** | Speech Synthesis | Added support for Google Colab T4 environments. |
+| 🔒 **SimpleVPN** | Python, Networking | Lightweight VPN implementation (Legacy). |
 
 ---
+
+### Related Repositories
+
+- **Erebus Frontend:** https://github.com/Erebus9456/erebus-frontend
+- **Erebus Backend:** https://github.com/Erebus9456/erebus-backend
+- **EasyVPN CLI:** https://github.com/Erebus9456/EasyVPN-CLI
+- **EasyVPN Backend:** https://github.com/Erebus9456/EasyVPN-Backend
+- **LibOQS Flutter:** https://github.com/Erebus9456/liboqs-flutter
+- **Orpheus TTS (Colab T4):** https://github.com/Erebus9456/Orpheus-TTS-Collab-T4---
 
 # 📊 GitHub Analytics
 
