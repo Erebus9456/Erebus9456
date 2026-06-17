@@ -141,18 +141,58 @@ Built an enterprise-grade, **MCP-powered multi-agent ecosystem** that turned raw
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" title="GitHub Actions"/>
 </p>
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Erebus9456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=a855f7&text_color=e2e8f0&count_private=true&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erebus9456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0" />
+<!-- Main Stats -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Erebus9456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img src="https://streak-stats.demolab.com?user=Erebus9456&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=a855f7&currStreakLabel=6366f1" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erebus9456&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
+<div align="center">
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Erebus9456&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Erebus9456&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=6366F1&point=FFFFFF" />
+
+</div>
+
+<div align="center">
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Erebus9456&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+## 🚀 Open Source & Development
+
+```text
+💻 Building Full Stack Applications
+🌱 Contributing to Open Source
+⚡ Exploring AI, Automation & DevOps
+📚 Always Learning Something New
+```
+
+---
+
+## 📈 Contribution Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erebus9456&theme=tokyonight" />
+</p>
 
 ---
 ## 🚀 Currently Building
