@@ -129,19 +129,20 @@ Built an enterprise-grade MCP-powered multi-agent ecosystem that transformed tra
 | 🎯 GoHighLevel CRM Agent | Lead processing, surveys, publishing, engagement automation             |
 
 ---
-
 # 🌟 Featured Projects
 
-| Project                           | Stack                   | Description                                                    |
-| --------------------------------- | ----------------------- | -------------------------------------------------------------- |
-| 💬 **Erebus**                     | Flutter, PocketBase     | Post-quantum secure encrypted communication platform           |
-| 🔒 **LibOQS Flutter**             | Flutter                 | Flutter bindings for NIST post-quantum cryptography algorithms |
-| 🎙️ **PDF-to-Audiobook Platform** | Python, Kokoro TTS      | Automated speech synthesis from any document                   |
-| 📞 **IVR Booking System**         | FastAPI, Telephony APIs | AI-powered appointment booking system                          |
-| 💬 **WhatsApp Business Agents**   | LangChain, OpenAI       | Customer support and booking automation                        |
-| 🎮 **VTuber Motion Capture**      | Python, WebRTC          | Real-time avatar motion capture and animation                  |
-| 🔊 **Orpheus TTS**                | Speech Synthesis        | Added support for Google Colab T4 environments                 |
-| 🔒 **SimpleVPN**                  | Python, Networking      | Lightweight VPN implementation                                 |
+| Project                           | Stack                   | Description                                                              |
+| --------------------------------- | ----------------------- | ------------------------------------------------------------------------ |
+| 💬 **Erebus**                     | Flutter, PocketBase     | Post-quantum secure encrypted communication platform.                    |
+| 🛡️ **EasyVPN CLI**                 | **Go, Networking**      | **High-performance, anti-censorship VPN client with kernel-level state reconciliation.** |
+| 🏗️ **EasyVPN Backend**            | **Node.js, WireGuard**  | **Automated WireGuard node agent with secure peer provisioning and key rotation APIs.** |
+| 🔒 **LibOQS Flutter**             | Flutter                 | Flutter bindings for NIST post-quantum cryptography algorithms.          |
+| 🎙️ **PDF-to-Audiobook Platform** | Python, Kokoro TTS      | Automated speech synthesis from any document.                            |
+| 📞 **IVR Booking System**         | FastAPI, Telephony APIs | AI-powered appointment booking system.                                    |
+| 💬 **WhatsApp Business Agents**   | LangChain, OpenAI       | Customer support and booking automation.                                 |
+| 🎮 **VTuber Motion Capture**      | Python, WebRTC          | Real-time avatar motion capture and animation.                           |
+| 🔊 **Orpheus TTS**                | Speech Synthesis        | Added support for Google Colab T4 environments.                          |
+| 🔒 **SimpleVPN**                  | Python, Networking      | Lightweight VPN implementation (Legacy).                                 |
 
 ---
 
