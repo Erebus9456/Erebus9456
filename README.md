@@ -156,33 +156,63 @@ Built an enterprise-grade, **MCP-powered multi-agent ecosystem** that turned raw
 
 
 ---
+## 🚀 Currently Building
 
-## 🔭 Currently Building △ !! BETA !!
+> **Three AI-first SaaS platforms currently in active beta.**
 
-```
-🏥 Healthcare SaaS    →  Multi-tenant · RBAC · AI operational assistants
-🎓 Education SaaS     →  Workflow automation · Real-time systems
-🍽️ Restaurant SaaS    →  AI-powered ops · Role-based access control | https://dineforge.netlify.app
-```
+<table>
+<tr>
+<td width="33%" align="center">
 
-> All three share a common pattern: **multi-tenant architecture + AI agents that replace manual overhead**.
+### 🏥 Healthcare SaaS
+Multi-tenant platform with RBAC, workflow automation, and AI operational assistants.
 
-<h4>Platform Stack</h4>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" title="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" title="Supabase"/>
-  <img src="https://img.shields.io/badge/Fly.io-8B5CF6?style=flat-square&logo=flydotio&logoColor=white&labelColor=8B5CF6" height="28" title="Fly.io"/>
-  <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white" height="28" title="Cloudflare Pages"/>
-  <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" height="28" title="Resend"/>
-  <img src="https://img.shields.io/badge/Evolution_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="28" title="Evolution API"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" height="28" title="n8n"/>
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" height="28" title="Sentry"/>
-  <img src="https://img.shields.io/badge/Axiom-1A1A2E?style=flat-square&logo=axiom&logoColor=white" height="28" title="Axiom"/>
+</td>
+<td width="33%" align="center">
+
+### 🎓 Education SaaS
+Automation-first learning workflows with real-time collaboration systems.
+
+</td>
+<td width="33%" align="center">
+
+### 🍽️ Restaurant SaaS
+AI-powered restaurant operations and staff management.
+
+**🔗 https://chopengine.com**
+
+</td>
+</tr>
+</table>
+
+### 🏗️ Shared Architecture
+
+> Multi-tenant SaaS foundations powered by AI agents that eliminate repetitive operational work.
+
+<h4 align="center">Platform Stack</h4>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" title="Go"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" title="Supabase"/>
 </p>
 
-> All three share a common pattern: **multi-tenant architecture + AI agents that replace manual overhead**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Fly.io-8B5CF6?style=for-the-badge&logo=flydotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axiom-1A1A2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Evolution_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</p>
 
 ---
 
