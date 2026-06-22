@@ -148,15 +148,6 @@ Built an enterprise-grade MCP-powered multi-agent ecosystem that transformed tra
 
 ---
 
-### Related Repositories
-
-- **Erebus Frontend:** https://github.com/Erebus9456/erebus-frontend
-- **Erebus Backend:** https://github.com/Erebus9456/erebus-backend
-- **EasyVPN CLI:** https://github.com/Erebus9456/EasyVPN-CLI
-- **EasyVPN Backend:** https://github.com/Erebus9456/EasyVPN-Backend
-- **LibOQS Flutter:** https://github.com/Erebus9456/liboqs-flutter
-- **Orpheus TTS (Colab T4):** https://github.com/Erebus9456/Orpheus-TTS-Collab-T4---
-
 # 📊 GitHub Analytics
 
 <div align="center">
