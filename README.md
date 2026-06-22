@@ -137,6 +137,7 @@ Built an enterprise-grade MCP-powered multi-agent ecosystem that transformed tra
 | 🔐 **[Erebus Backend](https://github.com/Erebus9456/erebus-backend)** | PocketBase, Docker | Backend infrastructure and schema migrations for Erebus. |
 | 🛡️ **[EasyVPN CLI](https://github.com/Erebus9456/EasyVPN-CLI)** | **Go, Networking** | **High-performance, anti-censorship VPN client with kernel-level state reconciliation.** |
 | 🏗️ **[EasyVPN Backend](https://github.com/Erebus9456/EasyVPN-Backend)** | **Python, WireGuard** | **Automated WireGuard node agent with secure peer provisioning and infrastructure orchestration.** |
+| 🚀 **[easyflow](https://github.com/Erebus9456/easyflow)** | **Go** | **Terminal-first GitHub workflow automation tool.** |
 | 🔒 **[LibOQS Flutter](https://github.com/Erebus9456/liboqs-flutter)** | Flutter | Flutter bindings for NIST post-quantum cryptography algorithms. |
 | 🎙️ **PDF-to-Audiobook Platform** | Python, Kokoro TTS | Automated speech synthesis from any document. |
 | 📞 **IVR Booking System** | FastAPI, Telephony APIs | AI-powered appointment booking system. |
