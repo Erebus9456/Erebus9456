@@ -148,36 +148,6 @@ Built an enterprise-grade MCP-powered multi-agent ecosystem that transformed tra
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Erebus9456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erebus9456&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Erebus9456&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Erebus9456&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=6366F1&point=FFFFFF" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erebus9456&theme=tokyonight" />
-
-</div>
-
----
-
 # 🛠️ Tech Stack
 
 ### 🤖 AI & Automation
