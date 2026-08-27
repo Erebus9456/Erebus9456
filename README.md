@@ -38,7 +38,7 @@ specializes_in:
   - Multi-tenant SaaS Platforms
 
 currently_building:
-  - Healthcare SaaS
+  - EHS Compliance SaaS
   - Restaurant SaaS
   - Real-Time Affective AI Systems
 
@@ -55,16 +55,18 @@ philosophy:
 
 # 🚀 Currently Building
 
-Building AI-first products and infrastructure across **SaaS, automation, conversational AI, and real-time human-computer interaction.**
+Building AI-first products and infrastructure across **SaaS, compliance, automation, conversational AI, and real-time human-computer interaction.**
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-## 🏥 Healthcare SaaS
+## 🦺 EHS Compliance SaaS
 
-Multi-tenant healthcare platform with **RBAC, workflow automation, and AI-powered operational assistants.**
+Multi-tenant **Environmental, Health & Safety compliance platform** for managing safety workflows, compliance requirements, incidents, and operational processes.
+
+**🔗** [**EHS Bridge**](https://ehsbridge.netlify.app)
 
 </td>
 
@@ -114,19 +116,20 @@ Built an enterprise-grade **MCP-powered multi-agent ecosystem** that transformed
 
 A mix of **AI systems, developer infrastructure, secure communications, automation tools, and applied products.**
 
-| Project                                                                   | Stack                       | Description                                                                          |
-| ------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------ |
-| 🎭 [**ANABELLE Backend**](https://github.com/Erebus9456/anabelle-backend)  | **Python** | Real-time affective AI using vocal analysis.                                                          |
-| 🎭 [**ANABELLE Frontend**](https://github.com/Erebus9456/anabelle-engine)  | **3js, React** | Real-time 3D avatar using the Anabelle Backend                                                    |
-| 💬 [**Erebus Frontend**](https://github.com/Erebus9456/erebus-frontend)   | **Flutter, PocketBase**     | Post-quantum secure messaging client.                                                |
-| 🔐 [**Erebus Backend**](https://github.com/Erebus9456/erebus-backend)     | **PocketBase, Docker**      | Backend infrastructure and schema migrations for Erebus.                             |
-| 🛡️ [**EasyVPN CLI**](https://github.com/Erebus9456/EasyVPN-CLI)          | **Go, Networking**          | High-performance VPN client with kernel-level state reconciliation.                  |
-| 🏗️ [**EasyVPN Backend**](https://github.com/Erebus9456/EasyVPN-Backend)  | **Python, WireGuard**       | Automated WireGuard node agent with secure peer provisioning and orchestration.      |
-| 🚀 [**easyflow**](https://github.com/Erebus9456/easyflow)                 | **Go**                      | Terminal-first GitHub workflow automation tool.                                      |
-| 🎙️ **PDF-to-Audiobook**                                                  | **Python, Kokoro TTS**      | Automated speech synthesis pipeline for converting documents into audiobooks.        |
-| 📞 **IVR Booking System**                                                 | **FastAPI, Telephony APIs** | AI-powered appointment booking and conversational telephony system.                  |
-| 🎮 **VTuber MoCap**                                                       | **Python, WebRTC**          | Real-time avatar motion capture and animation — legacy project.                      |
-| 🔊 [**Orpheus TTS**](https://github.com/Erebus9456/Orpheus-TTS-Collab-T4) | **Speech Synthesis**        | Adapted Orpheus TTS for Google Colab T4 environments.                                |
+| Project                                                                   | Stack                       | Description                                                                                              |
+| ------------------------------------------------------------------------- | --------------------------- | -------------------------------------------------------------------------------------------------------- |
+| 🎭 [**ANABELLE Backend**](https://github.com/Erebus9456/anabelle-backend) | **Python**                  | Real-time affective inference engine analyzing vocal characteristics to determine emotional states.      |
+| 🎭 [**ANABELLE Frontend**](https://github.com/Erebus9456/anabelle-engine) | **Three.js, React**         | Real-time 3D digital avatar that translates ANABELLE's affective states into expressive visual behavior. |
+| 🦺 [**EHS Bridge**](https://ehsbridge.netlify.app)                        | **Next.js, Supabase**       | Multi-tenant EHS compliance SaaS for managing safety, compliance, and operational workflows.             |
+| 💬 [**Erebus Frontend**](https://github.com/Erebus9456/erebus-frontend)   | **Flutter, PocketBase**     | Post-quantum secure messaging client.                                                                    |
+| 🔐 [**Erebus Backend**](https://github.com/Erebus9456/erebus-backend)     | **PocketBase, Docker**      | Backend infrastructure and schema migrations for Erebus.                                                 |
+| 🛡️ [**EasyVPN CLI**](https://github.com/Erebus9456/EasyVPN-CLI)          | **Go, Networking**          | High-performance VPN client with kernel-level state reconciliation.                                      |
+| 🏗️ [**EasyVPN Backend**](https://github.com/Erebus9456/EasyVPN-Backend)  | **Python, WireGuard**       | Automated WireGuard node agent with secure peer provisioning and orchestration.                          |
+| 🚀 [**easyflow**](https://github.com/Erebus9456/easyflow)                 | **Go**                      | Terminal-first GitHub workflow automation tool.                                                          |
+| 🎙️ **PDF-to-Audiobook**                                                  | **Python, Kokoro TTS**      | Automated speech synthesis pipeline for converting documents into audiobooks.                            |
+| 📞 **IVR Booking System**                                                 | **FastAPI, Telephony APIs** | AI-powered appointment booking and conversational telephony system.                                      |
+| 🎮 **VTuber MoCap**                                                       | **Python, WebRTC**          | Real-time avatar motion capture and animation — legacy project.                                          |
+| 🔊 [**Orpheus TTS**](https://github.com/Erebus9456/Orpheus-TTS-Collab-T4) | **Speech Synthesis**        | Adapted Orpheus TTS for Google Colab T4 environments.                                                    |
 
 ---
 
@@ -222,8 +225,8 @@ My work spans multiple layers of the AI stack:
                  ┌──────────────────────────┐
                  │       AI PRODUCTS        │
                  │                          │
-                 │  Healthcare · Restaurant │
-                 │  Automation · SaaS       │
+                 │  EHS · Restaurant · SaaS │
+                 │  Automation · AI         │
                  └────────────┬─────────────┘
                               │
                  ┌────────────▼─────────────┐
