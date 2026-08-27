@@ -116,8 +116,8 @@ A mix of **AI systems, developer infrastructure, secure communications, automati
 
 | Project                                                                   | Stack                       | Description                                                                          |
 | ------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------ |
-| 🎭 [**ANABELLE Backend**](https://github.com/Erebus9456/anabelle-backend)  | **Python* | Real-time affective AI using vocal analysis.                                                          |
-| 🎭 [**ANABELLE Frontend**](https://github.com/Erebus9456/anabelle-engine)  | **3js, React* | Real-time 3D avatar using the Anabelle Backend                                                    |
+| 🎭 [**ANABELLE Backend**](https://github.com/Erebus9456/anabelle-backend)  | **Python** | Real-time affective AI using vocal analysis.                                                          |
+| 🎭 [**ANABELLE Frontend**](https://github.com/Erebus9456/anabelle-engine)  | **3js, React** | Real-time 3D avatar using the Anabelle Backend                                                    |
 | 💬 [**Erebus Frontend**](https://github.com/Erebus9456/erebus-frontend)   | **Flutter, PocketBase**     | Post-quantum secure messaging client.                                                |
 | 🔐 [**Erebus Backend**](https://github.com/Erebus9456/erebus-backend)     | **PocketBase, Docker**      | Backend infrastructure and schema migrations for Erebus.                             |
 | 🛡️ [**EasyVPN CLI**](https://github.com/Erebus9456/EasyVPN-CLI)          | **Go, Networking**          | High-performance VPN client with kernel-level state reconciliation.                  |
