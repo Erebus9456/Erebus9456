@@ -111,26 +111,25 @@ Built an enterprise-grade **MCP-powered multi-agent ecosystem** that transformed
 | 🎯 **GoHighLevel CRM Agent** | Lead processing, surveys, publishing, and engagement automation         |
 
 ---
-
 # 🌟 Featured Projects
 
-A mix of **AI systems, developer infrastructure, secure communications, automation tools, and applied products.**
+A selection of **AI systems, developer infrastructure, cybersecurity, automation platforms, secure communications, and applied software products.**
 
-| Project                                                                   | Stack                       | Description                                                                                              |
-| ------------------------------------------------------------------------- | --------------------------- | -------------------------------------------------------------------------------------------------------- |
-| 🎭 [**ANABELLE Backend**](https://github.com/Erebus9456/anabelle-backend) | **Python**                  | Real-time affective inference engine analyzing vocal characteristics to determine emotional states.      |
-| 🎭 [**ANABELLE Frontend**](https://github.com/Erebus9456/anabelle-engine) | **Three.js, React**         | Real-time 3D digital avatar that translates ANABELLE's affective states into expressive visual behavior. |
-| 🦺 [**EHS Bridge**](https://ehsbridge.netlify.app)                        | **Next.js, Supabase**       | Multi-tenant EHS compliance SaaS for managing safety, compliance, and operational workflows.             |
-| 💬 [**Erebus Frontend**](https://github.com/Erebus9456/erebus-frontend)   | **Flutter, PocketBase**     | Post-quantum secure messaging client.                                                                    |
-| 🔐 [**Erebus Backend**](https://github.com/Erebus9456/erebus-backend)     | **PocketBase, Docker**      | Backend infrastructure and schema migrations for Erebus.                                                 |
-| 🛡️ [**EasyVPN CLI**](https://github.com/Erebus9456/EasyVPN-CLI)          | **Go, Networking**          | High-performance VPN client with kernel-level state reconciliation.                                      |
-| 🏗️ [**EasyVPN Backend**](https://github.com/Erebus9456/EasyVPN-Backend)  | **Python, WireGuard**       | Automated WireGuard node agent with secure peer provisioning and orchestration.                          |
-| 🚀 [**easyflow**](https://github.com/Erebus9456/easyflow)                 | **Go**                      | Terminal-first GitHub workflow automation tool.                                                          |
-| 🎙️ **PDF-to-Audiobook**                                                  | **Python, Kokoro TTS**      | Automated speech synthesis pipeline for converting documents into audiobooks.                            |
-| 📞 **IVR Booking System**                                                 | **FastAPI, Telephony APIs** | AI-powered appointment booking and conversational telephony system.                                      |
-| 🎮 **VTuber MoCap**                                                       | **Python, WebRTC**          | Real-time avatar motion capture and animation — legacy project.                                          |
-| 🔊 [**Orpheus TTS**](https://github.com/Erebus9456/Orpheus-TTS-Collab-T4) | **Speech Synthesis**        | Adapted Orpheus TTS for Google Colab T4 environments.                                                    |
-
+| Project | Stack | Description |
+|---|---|---|
+| 🎭 [**ANABELLE Backend**](https://github.com/Erebus9456/anabelle-backend) | **Python, AI/ML** | Real-time affective inference engine analyzing vocal characteristics to determine emotional states. |
+| 🎭 [**ANABELLE Frontend**](https://github.com/Erebus9456/anabelle-engine) | **Three.js, React** | Real-time 3D digital avatar translating ANABELLE's affective states into expressive visual behavior. |
+| 🦺 [**EHS Bridge**](https://ehsbridge.netlify.app) | **Next.js, Supabase** | Multi-tenant EHS compliance SaaS for managing safety, compliance, and operational workflows. |
+| 💬 [**Erebus Frontend**](https://github.com/Erebus9456/erebus-frontend) | **Flutter, PocketBase** | Post-quantum end-to-end encrypted messaging client with realtime communication and secure local key storage. |
+| 🔐 [**Erebus Backend**](https://github.com/Erebus9456/erebus-backend) | **PocketBase, Docker** | Backend infrastructure, database schema, authentication, and deployment configuration for Erebus. |
+| 🛡️ [**EasyVPN CLI**](https://github.com/Erebus9456/EasyVPN-CLI) | **Go, Networking** | High-performance VPN client with automated WireGuard management and kernel-level network state reconciliation. |
+| 🏗️ [**EasyVPN Backend**](https://github.com/Erebus9456/EasyVPN-Backend) | **Python, WireGuard** | Automated WireGuard node agent for secure peer provisioning, registration, and network orchestration. |
+| 🚀 [**EasyFlow**](https://github.com/Erebus9456/easyflow) | **Go, Bubble Tea** | Terminal-first GitHub workflow automation tool for managing issues, branches, commits, pushes, and pull requests from one interactive TUI. |
+| ⚖️ **Supreme Court Pakistan Scraper** | **Python, Selenium** | Resilient legal-data extraction pipeline for searching judgments, handling CAPTCHA-assisted workflows, navigating ASP.NET WebForms, deduplicating cases, and reliably downloading protected PDFs. |
+| 🎙️ [**Orpheus TTS — Colab T4**](https://github.com/Erebus9456/Orpheus-TTS-Collab-T4) | **Python, vLLM, TTS** | T4-optimized adaptation of Orpheus TTS designed to run efficiently on free Google Colab GPU environments. |
+| 🎙️ **PDF-to-Audiobook** | **Python, Kokoro TTS** | Automated document-to-audiobook pipeline combining document processing with neural speech synthesis. |
+| 📞 **IVR Booking System** | **FastAPI, Telephony APIs** | AI-powered appointment booking and conversational telephony system integrating backend automation with voice interactions. |
+| 🎮 **VTuber MoCap** | **Python, WebRTC** | Real-time avatar motion capture and animation system — legacy project. |
 ---
 
 # 🧠 Areas of Engineering
@@ -194,7 +193,6 @@ API Platforms
 </table>
 
 ---
-
 # 🛠️ Tech Stack
 
 ### 🤖 AI & Machine Learning
@@ -207,6 +205,16 @@ API Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,threejs,nodejs,javascript,typescript,dart,flutter,docker,graphql"/>
+</p>
+
+### 🌐 Web Automation & Data Extraction
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,selenium"/>
+</p>
+
+<p align="center">
+  <b>Selenium WebDriver</b> · <b>Chrome Automation</b> · <b>ASP.NET WebForms</b> · <b>XPath</b> · <b>CSV Processing</b> · <b>PDF Extraction & Validation</b>
 </p>
 
 ### 🗄️ Databases & Storage
