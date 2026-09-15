@@ -214,7 +214,7 @@ API Platforms
 </p>
 
 <p align="center">
-  <b>Selenium WebDriver</b> · <b>Chrome Automation</b> · <b>ASP.NET WebForms</b> · <b>XPath</b> · <b>CSV Processing</b> · <b>PDF Extraction & Validation</b>
+  Selenium WebDriver &nbsp;•&nbsp; Chrome Automation &nbsp;•&nbsp; XPath &nbsp;•&nbsp; ASP.NET WebForms &nbsp;•&nbsp; CSV Processing &nbsp;•&nbsp; PDF Validation
 </p>
 
 ### 🗄️ Databases & Storage
