@@ -1,15 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?text=Zaid%20Shah&animation=fadeIn&type=waving&color=0:6366f1,100:a855f7&height=120&fontColor=ffffff&fontSize=50&fontAlignY=65&desc=AI%20Engineer%20%C2%B7%20Automation%20Architect%20%C2%B7%20Full%20Stack%20Developer&descAlignY=85&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?text=Zaid%20Shah&animation=fadeIn&type=waving&color=0:6366f1,100:a855f7&height=120&fontColor=ffffff&fontSize=50&fontAlignY=65&desc=AI%20Engineer%20%C2%B7%20Automation%20Architect%20%C2%B7%20Full%20Stack%20Developer&descAlignY=85&descSize=16"/>
 
-<a href="mailto:zaid9456@gmail.com">
-  <img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Erebus9456">
-  <img height="32" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Erebus9456&style=flat-square&color=6366f1&label=Profile+Views"/>
+<a href="mailto:zaid9456@gmail.com"><img height="28" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Erebus9456"><img height="28" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img height="28" src="https://komarev.com/ghpvc/?username=Erebus9456&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -195,31 +192,39 @@ API Platforms
 
 ### 🤖 AI & Machine Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask"/>
+
+</div>
 
 ### ⚙️ Backend, Frontend & Infrastructure
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,threejs,nodejs,javascript,typescript,dart,flutter,docker,graphql"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,threejs,nodejs,javascript,typescript,dart,flutter,docker,graphql"/>
+
+</div>
 
 ### 🌐 Web Automation & Data Extraction
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,selenium"/>
-</p>
+<div align="center">
 
-<p align="center">
-  Selenium WebDriver &nbsp;•&nbsp; Chrome Automation &nbsp;•&nbsp; XPath &nbsp;•&nbsp; ASP.NET WebForms &nbsp;•&nbsp; CSV Processing &nbsp;•&nbsp; PDF Validation
-</p>
+<img src="https://skillicons.dev/icons?i=python,selenium"/>
+
+<br/>
+
+Selenium WebDriver&nbsp;&nbsp;•&nbsp;&nbsp;Chrome Automation&nbsp;&nbsp;•&nbsp;&nbsp;XPath&nbsp;&nbsp;•&nbsp;&nbsp;ASP.NET WebForms&nbsp;&nbsp;•&nbsp;&nbsp;CSV Processing&nbsp;&nbsp;•&nbsp;&nbsp;PDF Validation
+
+</div>
 
 ### 🗄️ Databases & Storage
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis"/>
+
+</div>
 
 ---
 
@@ -271,6 +276,9 @@ Build products that solve operational problems.
 ```
 
 ---
+
+
+<div align="center">
 
 ### Thanks for stopping by 👋
 
