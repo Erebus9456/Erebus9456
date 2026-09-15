@@ -1,295 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?text=Zaid%20Shah&animation=fadeIn&type=waving&color=0:6366f1,100:a855f7&height=120&fontColor=ffffff&fontSize=50&fontAlignY=65&desc=AI%20Engineer%20%C2%B7%20Automation%20Architect%20%C2%B7%20Full%20Stack%20Developer&descAlignY=85&descSize=16"/>
+<br>
+
+# Muhammad Zaid
+
+**AI Automation Engineer · Full Stack Developer**
+
+Building AI systems that turn language, voice, and business workflows into working software.
 
 <br>
 
-<a href="mailto:zaid9456@gmail.com">
-  <img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/-zaid9456@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:zaid9456@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Erebus9456-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Erebus9456)
 
-<a href="https://github.com/Erebus9456">
-  <img height="32" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Erebus9456&style=flat-square&color=6366f1&label=Profile+Views"/>
+<br>
 
 </div>
 
 ---
 
-# 👾 About Me
+## Currently Building
 
-```yaml
-name: Muhammad Zaid
+<br>
 
-role:
-  - AI Automation Engineer
-  - Full Stack Developer
+**[Chop Engine](https://chopengine.com)** — AI-powered restaurant operations platform: staff management, workflows, and day-to-day operations.
 
-specializes_in:
-  - AI Agents & MCP Systems
-  - LLM / RAG Architectures
-  - Real-Time Multimodal AI
-  - Affective Computing & Speech Emotion Recognition
-  - WhatsApp & Voice Automation
-  - Multi-tenant SaaS Platforms
+**[EHS Bridge](https://ehsbridge.netlify.app)** — Multi-tenant EHS compliance SaaS for safety workflows, incidents, and operational processes.
 
-currently_building:
-  - EHS Compliance SaaS
-  - Restaurant SaaS
-  - Real-Time Affective AI Systems
+**[Anabelle](https://github.com/Erebus9456/anabelle-backend)** — Real-time affective inference engine that reads vocal characteristics and drives emotional states in a digital avatar.
 
-mission:
-  Building AI systems that transform natural language,
-  vocal subtext, and business workflows into intelligent
-  real-world operations.
-
-philosophy:
-  "The best automation is invisible — it just works."
-```
+<br>
 
 ---
 
-# 🚀 Currently Building
+## Focus Areas
 
-Building AI-first products and infrastructure across **SaaS, compliance, automation, conversational AI, and real-time human-computer interaction.**
+<br>
 
-<table>
-<tr>
+`AI Agents & MCP Systems` `LLM / RAG Architectures` `Real-Time Multimodal AI` `Affective Computing & Speech Emotion Recognition` `Voice & WhatsApp Automation` `Multi-Tenant SaaS`
 
-<td width="33%" align="center">
-
-## 🦺 EHS Compliance SaaS
-
-Multi-tenant **Environmental, Health & Safety compliance platform** for managing safety workflows, compliance requirements, incidents, and operational processes.
-
-**🔗** [**EHS Bridge**](https://ehsbridge.netlify.app)
-
-</td>
-
-<td width="33%" align="center">
-
-## 🍽️ Restaurant SaaS
-
-AI-powered restaurant operations platform covering **staff management, workflows, and day-to-day business operations.**
-
-**🔗** [**Chop Engine**](https://chopengine.com)
-
-</td>
-
-<td width="33%" align="center">
-
-## 🎭 ANABELLE
-
-Real-time **affective inference engine** that analyzes vocal characteristics and drives emotional states for digital avatars.
-
-**🔗** [**View Engine**](https://github.com/Erebus9456/anabelle-backend)
-
-</td>
-
-</tr>
-</table>
+<br>
 
 ---
 
-# 🤖 Enterprise AI Systems
+## Enterprise Work
 
-### AI Agent Systems @ Advertising Report Card
+<br>
 
-**Team Lead – Automations · 2024–2025**
+**Team Lead, Automations** — Advertising Report Card · 2024–2025
 
-Built an enterprise-grade **MCP-powered multi-agent ecosystem** that transformed traditional marketing platforms into conversational AI interfaces.
+Built an MCP-powered multi-agent system that turned marketing platforms into conversational interfaces.
 
-| Agent                        | Capability                                                              |
-| ---------------------------- | ----------------------------------------------------------------------- |
-| 📊 **GA4 Analytics Agent**   | Natural-language analytics, funnels, retention reports, KPI exploration |
-| 📁 **Google Drive Agent**    | Semantic search, metadata extraction, automated file operations         |
-| 💰 **Google Ads Agent**      | GAQL generation, campaign monitoring, approval workflows                |
-| 🎯 **GoHighLevel CRM Agent** | Lead processing, surveys, publishing, and engagement automation         |
+<br>
 
----
-# 🌟 Featured Projects
+| Agent | Capability |
+|---|---|
+| GA4 Analytics | Natural-language analytics, funnels, retention, KPI exploration |
+| Google Drive | Semantic search, metadata extraction, file operations |
+| Google Ads | GAQL generation, campaign monitoring, approvals |
+| GoHighLevel CRM | Lead processing, surveys, publishing, engagement |
 
-A selection of **AI systems, developer infrastructure, cybersecurity, automation platforms, secure communications, and applied software products.**
-
-| Project | Stack | Description |
-|---|---|---|
-| 🎭 [**ANABELLE Backend**](https://github.com/Erebus9456/anabelle-backend) | **Python, AI/ML** | Real-time affective inference engine analyzing vocal characteristics to determine emotional states. |
-| 🎭 [**ANABELLE Frontend**](https://github.com/Erebus9456/anabelle-engine) | **Three.js, React** | Real-time 3D digital avatar translating ANABELLE's affective states into expressive visual behavior. |
-| 🦺 [**EHS Bridge**](https://ehsbridge.netlify.app) | **Next.js, Supabase** | Multi-tenant EHS compliance SaaS for managing safety, compliance, and operational workflows. |
-| 💬 [**Erebus Frontend**](https://github.com/Erebus9456/erebus-frontend) | **Flutter, PocketBase** | Post-quantum end-to-end encrypted messaging client with realtime communication and secure local key storage. |
-| 🔐 [**Erebus Backend**](https://github.com/Erebus9456/erebus-backend) | **PocketBase, Docker** | Backend infrastructure, database schema, authentication, and deployment configuration for Erebus. |
-| 🛡️ [**EasyVPN CLI**](https://github.com/Erebus9456/EasyVPN-CLI) | **Go, Networking** | High-performance VPN client with automated WireGuard management and kernel-level network state reconciliation. |
-| 🏗️ [**EasyVPN Backend**](https://github.com/Erebus9456/EasyVPN-Backend) | **Python, WireGuard** | Automated WireGuard node agent for secure peer provisioning, registration, and network orchestration. |
-| 🚀 [**EasyFlow**](https://github.com/Erebus9456/easyflow) | **Go, Bubble Tea** | Terminal-first GitHub workflow automation tool for managing issues, branches, commits, pushes, and pull requests from one interactive TUI. |
-| ⚖️ **Supreme Court Pakistan Scraper** | **Python, Selenium** | Resilient legal-data extraction pipeline for searching judgments, handling CAPTCHA-assisted workflows, navigating ASP.NET WebForms, deduplicating cases, and reliably downloading protected PDFs. |
-| 🎙️ [**Orpheus TTS — Colab T4**](https://github.com/Erebus9456/Orpheus-TTS-Collab-T4) | **Python, vLLM, TTS** | T4-optimized adaptation of Orpheus TTS designed to run efficiently on free Google Colab GPU environments. |
-| 🎙️ **PDF-to-Audiobook** | **Python, Kokoro TTS** | Automated document-to-audiobook pipeline combining document processing with neural speech synthesis. |
-| 📞 **IVR Booking System** | **FastAPI, Telephony APIs** | AI-powered appointment booking and conversational telephony system integrating backend automation with voice interactions. |
-| 🎮 **VTuber MoCap** | **Python, WebRTC** | Real-time avatar motion capture and animation system — legacy project. |
----
-
-# 🧠 Areas of Engineering
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-### 🤖 AI
-
-LLMs
-RAG
-AI Agents
-MCP
-Speech AI
-Affective Computing
-
-</td>
-
-<td width="25%" align="center">
-
-### ⚡ Real-Time
-
-WebSockets
-WebRTC
-Speech Processing
-Emotion Detection
-Avatar Systems
-Voice Interfaces
-
-</td>
-
-<td width="25%" align="center">
-
-### 🏗️ Backend
-
-FastAPI
-Go
-Node.js
-PostgreSQL
-Supabase
-Docker
-
-</td>
-
-<td width="25%" align="center">
-
-### 📱 Products
-
-Flutter
-React
-Next.js
-Multi-Tenant SaaS
-Automation
-API Platforms
-
-</td>
-
-</tr>
-</table>
-
----
-# 🛠️ Tech Stack
-
-### 🤖 AI & Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask"/>
-</p>
-
-### ⚙️ Backend, Frontend & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,threejs,nodejs,javascript,typescript,dart,flutter,docker,graphql"/>
-</p>
-
-### 🌐 Web Automation & Data Extraction
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,selenium"/>
-</p>
-
-<p align="center">
-  Selenium WebDriver &nbsp;•&nbsp; Chrome Automation &nbsp;•&nbsp; XPath &nbsp;•&nbsp; ASP.NET WebForms &nbsp;•&nbsp; CSV Processing &nbsp;•&nbsp; PDF Validation
-</p>
-
-### 🗄️ Databases & Storage
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis"/>
-</p>
+<br>
 
 ---
 
-# 🔬 Applied AI
+## Selected Projects
 
-My work spans multiple layers of the AI stack:
+<br>
 
-```text
-                 ┌──────────────────────────┐
-                 │       AI PRODUCTS        │
-                 │                          │
-                 │  EHS · Restaurant · SaaS │
-                 │  Automation · AI         │
-                 └────────────┬─────────────┘
-                              │
-                 ┌────────────▼─────────────┐
-                 │    INTELLIGENT SYSTEMS   │
-                 │                          │
-                 │  Agents · MCP · RAG      │
-                 │  Conversational AI       │
-                 └────────────┬─────────────┘
-                              │
-                 ┌────────────▼─────────────┐
-                 │      MULTIMODAL AI       │
-                 │                          │
-                 │  Speech · Emotion · Voice│
-                 │  Real-Time Interaction   │
-                 └────────────┬─────────────┘
-                              │
-                 ┌────────────▼─────────────┐
-                 │     SYSTEMS & INFRA      │
-                 │                          │
-                 │  APIs · Networking · DBs │
-                 │  Docker · Cloud          │
-                 └──────────────────────────┘
-```
+**[Anabelle Backend](https://github.com/Erebus9456/anabelle-backend)** · Python — Real-time affective inference engine analyzing vocal characteristics to determine emotional state.
+
+**[Anabelle Frontend](https://github.com/Erebus9456/anabelle-engine)** · Three.js, React — 3D avatar that renders Anabelle's affective states as expressive behavior.
+
+**[Erebus](https://github.com/Erebus9456/erebus-frontend)** · Flutter, PocketBase — Post-quantum end-to-end encrypted messaging client with secure local key storage.
+
+**[Erebus Backend](https://github.com/Erebus9456/erebus-backend)** · PocketBase, Docker — Auth, schema, and deployment infrastructure for Erebus.
+
+**[EasyVPN CLI](https://github.com/Erebus9456/EasyVPN-CLI)** · Go — High-performance WireGuard VPN client with kernel-level network state reconciliation.
+
+**[EasyVPN Backend](https://github.com/Erebus9456/EasyVPN-Backend)** · Python, WireGuard — Node agent for peer provisioning and network orchestration.
+
+**[EasyFlow](https://github.com/Erebus9456/easyflow)** · Go, Bubble Tea — Terminal-first GitHub workflow tool for issues, branches, commits, and pull requests.
+
+**[Orpheus TTS — Colab T4](https://github.com/Erebus9456/Orpheus-TTS-Collab-T4)** · Python, vLLM — T4-optimized Orpheus TTS build for free Colab GPUs.
+
+**Supreme Court Pakistan Scraper** · Python, Selenium — Resilient legal-data pipeline: CAPTCHA-assisted search, ASP.NET WebForms navigation, deduplication, protected PDF retrieval.
+
+**PDF-to-Audiobook** · Python, Kokoro TTS — Document-to-audiobook pipeline combining text processing with neural speech synthesis.
+
+**IVR Booking System** · FastAPI, Telephony APIs — AI-driven appointment booking over voice.
+
+<br>
 
 ---
 
-# ⚡ Engineering Philosophy
+## Stack
 
-```text
-Build systems, not scripts.
-Automate repetitive work.
-Prefer reliability over complexity.
-Ship quickly, iterate continuously.
-Design AI around human behavior, not just text.
-Build products that solve operational problems.
-```
+<br>
 
----
+**AI / ML** — Python · PyTorch · TensorFlow · FastAPI · LangChain
 
-# 📰 Developer Activity
+**Backend** — Go · Node.js · PostgreSQL · Supabase · Docker
 
-<div align="center">
-  <a href="https://app.daily.dev/erebus9456">
-    <img src="https://api.daily.dev/devcards/v2/u2qBLrQpuxYvplqDujJZn.png?type=wide&r=qmf"
-         width="652"
-         alt="Zaid Shah's Dev Card"/>
-  </a>
-</div>
+**Frontend / Products** — Flutter · React · Next.js · Three.js
+
+**Automation** — n8n · GoHighLevel · Selenium
+
+<br>
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by 👋
+<br>
 
-**Building intelligent systems, shipping products, and exploring what AI can do beyond the screen.**
+*The best automation is invisible — it just works.*
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Erebus9456&style=flat-square&color=000000&label=Views)
 
 </div>
